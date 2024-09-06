@@ -2,7 +2,7 @@
 Coffee Machine
 
 Author: Alan
-Date: August 3rd 2024
+Date: September 3rd 2024
 
 This script simulates a coffee machine.
 The user selects the coffee drink, pays with coins and the machine will update the list of resources for the next time
